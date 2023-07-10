@@ -1,6 +1,7 @@
  
-    footer{
-        color: crimson;
+   
+   footer{
+        color: rgb(205, 36, 69);
         background-color: beige;
         margin: 0px;
         text-align: center;
@@ -19,7 +20,7 @@
     }
     header{
         color: aqua;
-        background-color: chocolate;
+        background-color: rgb(201, 106, 38);
         padding: 15px;
         display: flex;
         justify-content: space-between;
